@@ -105,6 +105,21 @@ Method	Route	Description
 GET	/api/products	List all products
 GET	/api/products/check-stock	Check & alert low stock
 
+### 📸 Screenshots
+
+#### 🔔 Low Stock Email Preview
+![Low Stock Email](./Screenshots/low-stock-preview.png)
+
+#### 🧪 API Output (Low Stock)
+![API](./Screenshots/Low Stack Api.png)
+
+#### ✅ Check Stock Trigger
+![Check Stock](./Screenshots/Check Stock.png)
+
+#### 💻 Terminal Alert Output
+![Terminal](./Screenshots/Terminal.png)
+
+
 👨‍💻 Author
 V. Suriya
 📫 GitHub: Suriya123-MVS
